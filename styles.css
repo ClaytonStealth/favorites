@@ -1,3 +1,17 @@
 h1{
     background-color: blueviolet;
 }
+
+li {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: chocolate;
+}
+
+#faves {
+    background-color: darkblue;
+}
+
+p {
+    font-size: xx-large;
+    text-align: center;
+}
